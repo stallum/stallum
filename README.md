@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Artur, I'm a WEB DEV</h2>
 
 ###
 
@@ -39,8 +39,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/stallum/stallum/output/snake.svg" alt="Snake animation" />
 
