@@ -12,7 +12,7 @@
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stallum&theme=midnight-purple)
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tallum&show_icons=true&count_private=true&hide_border=true&title_color=5727AE&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Artur Gabriel Pereira dos Santos stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=stallum&show_icons=true&count_private=true&hide_border=true&title_color=5727AE&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Artur Gabriel Pereira dos Santos stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallum&layout=compact&hide_border=true&title_color=5727AE&text_color=5727AE&bg_color=0d1117" />
 </div>
 
