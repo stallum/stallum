@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=small&pause=1000&color=5727AE&width=1000&center=true&lines=Hello%2C+my+name+is+Artur+Gabriel;I'm+17+years+old;I'm+from+Campina+Grande%2C+PB;+I+Study+Computer+Science+at+UEPB+;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
+### 👩‍💻  About Me
 
 <p align="left">I'm Artur, or Stallum from Brazil<br><br>- 🔭 I’m working as Dev<br>- 📚 I'm currently learning AI/ML<br>- ⚡ In my free time I play Video Games</p>
 
