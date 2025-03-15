@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=&color=5727AE"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=&color=5727AE"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=small&pause=1000&color=5727AE&width=435&lines=Hello%2C+my+name+is+Artur+Gabriel;I'm+17+years+old;I'm+from+Campina+Grande%2C+PB;+I+Study+Computer+Science+at+UEPB+;Be+welcome!+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=small&pause=1000&color=5727AE&width=435&lines=Hello%2C+my+name+is+Artur+Gabriel;I'm+17+years+old;I'm+from+Campina+Grande%2C+PB;+I+Study+Computer+Science+at+UEPB+;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 <h3 align="left">👩‍💻  About Me</h3>
 
