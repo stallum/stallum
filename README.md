@@ -11,13 +11,14 @@
 ### stats
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stallum&theme=midnight-purple)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tallum&show_icons=true&count_private=true&hide_border=true&title_color=5727AE&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Artur Gabriel Pereira dos Santos stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallum&layout=compact&hide_border=true&title_color=5727AE&text_color=5727AE&bg_color=0d1117" />
+</div>
 
+### 🛠 main skills
 
-### main skills
-
-<h3 align="left">🛠 Language and tools</h3>
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
