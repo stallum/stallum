@@ -10,7 +10,7 @@
 
 ### stats
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stallum&theme=blue-green)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stallum&theme=midnight-purple)
 
 
 ### main skills
