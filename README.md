@@ -4,7 +4,7 @@
 
 ### 👩‍💻  About Me
 
-<p align="left">I'm Artur, or Stallum from Brazil<br><br>- 🔭 I’m working as Dev<br>- 📚 I'm currently learning AI/ML and Data Science<br>- ⚡ In my free time I play Video Games</p>
+<p align="left">I'm Artur, or Stallum from Brazil<br><br>- 🔭 I’m working as Dev<br>- 📚 I'm currently learning AI/ML and Data Science<br>- ⚡ In my free time I read</p>
 
 ### stats
 
@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -32,6 +32,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="40" alt="docker logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="docker logo" />
+  <img width="12"/>
+
 </div>
 
 ### redes
