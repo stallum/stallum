@@ -6,12 +6,17 @@
 
 <p align="left">I'm Artur, or Stallum from Brazil<br><br>- 🔭 I’m working as Dev<br>- 📚 I'm currently learning AI/ML and Data Science<br>- ⚡ In my free time I read</p>
 
-### stats
+<!--### stats
 
-<div align="center">  
+ <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=stallum&show_icons=true&count_private=true&hide_border=true&title_color=5727AE&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Artur Gabriel Pereira dos Santos stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallum&layout=compact&hide_border=true&title_color=5727AE&text_color=5727AE&bg_color=0d1117" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stallum&show_icons=true&theme=radical" />
+</p>
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=stallum&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+-->
 
 ### 🛠 main skills
 
