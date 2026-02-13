@@ -46,7 +46,7 @@
 
 </div>
 
-<!--### redes -->
+<!-- ### redes -->
 <div align="center">
 <h3>redes</h3>
 </div>
@@ -56,14 +56,21 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
-### visitors
-
+<!-- ### visitors -->
+<!--
+<div align="center">
+<h3>visitors</h3>
+</div>
+-->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=stallum.stallum&"  />
 </div>
 
-### Learning now
+<!-- ### Learning now -->
 
+<div align="center">
+<h3>Learning now</h3>
+</div>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 <img width="12"/>
