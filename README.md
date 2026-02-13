@@ -18,8 +18,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=stallum&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 -->
 
-### 🛠 main skills
-
+<!-- ### 🛠 main skills -->
+<div align="center">
+<h3>🛠 main skills</h3>
+</div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -44,8 +46,10 @@
 
 </div>
 
-### redes
-
+<!--### redes -->
+<div align="center">
+<h3>redes</h3>
+</div>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
@@ -59,3 +63,10 @@
 </div>
 
 ### Learning now
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+<img width="12"/>
+ 
+</div>
+
