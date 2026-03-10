@@ -4,7 +4,7 @@
 
 ### 👩‍💻  About Me
 
-<p align="left">I'm Artur, or Stallum from Brazil<br><br>- 🔭 I’m working as Dev<br>- 📚 I'm currently learning AI/ML and Data Science<br>- ⚡ In my free time I read</p>
+<p align="left">I'm Artur, or Stallum from Brazil<br><br>- 🔭 I’m working as a Backend Dev<br>- 📚 I'm currently learning AI/ML and Data Science<br>- ⚡ In my free time I read</p>
 
 <!--### stats
 
