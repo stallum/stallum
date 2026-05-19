@@ -21,8 +21,15 @@
 <!-- ### 🛠 main skills -->
 <div align="center">
 <h3>🛠 main skills</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,git,docker,c,vim,arch,java" />
+  </a>
+</p>
+ 
+<!--
 </div>
-<div align="center">
+ <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -46,9 +53,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12"/>
 
-</div>
+</div> 
+-->
 
 <!-- ### redes -->
+<!--
 <div align="center">
 <h3>redes</h3>
 </div>
@@ -64,19 +73,23 @@
    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
   </a>
 </div>
-
+-->
 <!-- ### visitors -->
 <!--
 <div align="center">
 <h3>visitors</h3>
 </div>
 -->
+
+<!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=stallum.stallum&"  />
 </div>
+-->
 
 <!-- ### Learning now -->
 
+<!--
 <div align="center">
 <h3>Learning now</h3>
 </div>
@@ -85,4 +98,4 @@
 <img width="12"/>
  
 </div>
-
+-->
