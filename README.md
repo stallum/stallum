@@ -20,7 +20,7 @@
 
 <!-- ### 🛠 main skills -->
 <div align="center">
-<h3>🛠 main skills</h3>
+<h3>main skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,git,docker,c,vim,neovim,arch,java" />
