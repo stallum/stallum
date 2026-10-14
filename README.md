@@ -2,7 +2,7 @@
 <div align="center">
 <h3> 👩‍💻  About Me </h3>
 
-<p>I'm Artur, or Stallum, from Brazil<br><br>- 🔭 I’m working as a Backend Dev<br>- 📚 I'm currently learning Software Engineering and Data Science<br>- ⚡ In my free time I read</p>
+<p>I'm Artur, or Stallum, from Brazil<br><br>- 🔭 I’m working as a Backend Dev & AI Researcher<br>- 📚 I'm currently learning Software Engineering and Data Science<br>- ⚡ In my free time I read</p>
 <br>
 
 <!-- ### 🛠 main skills -->
