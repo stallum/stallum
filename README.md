@@ -10,7 +10,7 @@
 <h3>main skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,git,docker,c,vim,neovim,arch,java" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,git,docker,c,cpp,vim,neovim,arch,java,rust" />
   </a>
 </p>
 <br>
